@@ -1,0 +1,240 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-image: url("https://socialmediamars.netlify.app/img/photo_2023-03-03_14-20-26.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.social {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 0px;
+    font-size: 50px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.fbk {
+    background-color: white;
+    color: darkblue;
+}
+
+.fbk:hover {
+    background-color: darkblue;
+    color: white;
+}
+
+.twt {
+    background-color: white;
+    color: dodgerblue;
+}
+
+.twt:hover {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.ytb {
+    background-color: white;
+    color: red;
+}
+
+.ytb:hover {
+    background-color: red;
+    color: white;
+}
+
+.ins {
+    background-color: white;
+    color: purple;
+}
+
+.ins:hover {
+    background-color: purple;
+    color: white;
+}
+
+.pnt {
+    background-color: white;
+    color: red;
+}
+
+.pnt:hover {
+    background-color: red;
+    color: white;
+}
+
+.ggl {
+    background-color: white;
+    color: rgb(255, 150, 58);
+}
+
+.ggl:hover {
+    background-color: rgb(255, 150, 58);
+    color: white;
+}
+
+.inn {
+    background-color: white;
+    color: aqua;
+}
+
+.inn:hover {
+    background-color: aqua;
+    color: white;
+}
+
+.sch {
+    background-color: white;
+    color: yellow;
+}
+
+.sch:hover {
+    background-color: yellow;
+    color: black;
+}
+
+.sky {
+    background-color: white;
+    color: lightseagreen;
+}
+
+.sky:hover {
+    background-color: lightseagreen;
+    color: white;
+}
+
+.and {
+    background-color: white;
+    color: chartreuse;
+}
+
+.and:hover {
+    background-color: chartreuse;
+    color: white;
+}
+
+.drb {
+    background-color: white;
+    color: fuchsia;
+}
+
+.drb:hover {
+    background-color: fuchsia;
+    color: white;
+}
+
+.vmv {
+    background-color: white;
+    color: dodgerblue;
+}
+
+.vmv:hover {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.tmb {
+    background-color: white;
+    color: rgb(30, 68, 255);
+}
+
+.tmb:hover {
+    background-color: rgb(30, 68, 255);
+    color: white;
+}
+
+.series {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vn {
+    background-color: white;
+    color: rgb(46, 217, 129);
+}
+
+.vn:hover {
+    background-color: rgb(46, 217, 129);
+    color: white;
+}
+
+.frq {
+    background-color: white;
+    color: dodgerblue;
+}
+
+.frq:hover {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.stm {
+    background-color: white;
+    color: orangered;
+}
+
+.stm:hover {
+    background-color: orangered;
+    color: white;
+}
+
+.flc {
+    background-color: white;
+    color: deeppink;
+}
+
+.flc:hover {
+    background-color: deeppink;
+    color: white;
+}
+
+.y {
+    background-color: white;
+    color: darkslateblue;
+}
+
+.y:hover {
+    background-color: darkslateblue;
+    color: white;
+}
+
+.rdd {
+    background-color: white;
+    color: orangered;
+}
+
+.rdd:hover {
+    background-color: orangered;
+    color: white;
+}
+
+.rss {
+    background-color: white;
+    color: orangered;
+}
+
+.rss:hover {
+    background-color: orangered;
+    color: white;
+}
